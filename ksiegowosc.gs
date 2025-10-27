@@ -291,10 +291,6 @@ function setupPodsumowanieMiesieczneSheet(sheet, month, year) {
  * Konfiguruje arkusz "Podsumowanie Roczne".
  */
 function setupPodsumowanieRoczneSheet(sheet, year) {
-/**
- * Konfiguruje arkusz "Podsumowanie Roczne".
- */
-function setupPodsumowanieRoczneSheet(sheet, year) {
   const months = [
     'Styczeń', 'Luty', 'Marzec', 'Kwiecień', 'Maj', 'Czerwiec', 
     'Lipiec', 'Sierpień', 'Wrzesień', 'Październik', 'Listopad', 'Grudzień'
